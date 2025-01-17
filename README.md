@@ -1,9 +1,9 @@
 # Data Scientist
 
 ## Education
-B.S. Data Science | Barrett, The Honors College at Arizona State University (_May 2025_)
+- B.S., Data Science | Barrett, The Honors College at Arizona State University | (_May 2025_)
 
-B.S. Applied Mathematics for the Life and Social Sciences | Barrett, The Honors College at Arizona State University (_May 2025_)
+- B.S., Applied Mathematics for the Life and Social Sciences | Barrett, The Honors College at Arizona State University | (_May 2025_)
 
 ## Honors
 - Phi Beta Kappa Honors Society: Spring 2024 - Present
