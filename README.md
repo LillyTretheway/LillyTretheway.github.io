@@ -3,6 +3,7 @@
 ## Education
 - B.S. Data Science
 - B.S. Applied Mathematics for the Life and Social Sciences
+
 Barrett, The Honors College at Arizona State University | (_May 2025_) | 4.0/4.0
   
 ## Honors
