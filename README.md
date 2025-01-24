@@ -38,4 +38,37 @@
 - Settled issues between coworkers and campers to ensure a positive environment
 
 
+## Projects
 
+**Predicting Obesity using Machine Learning Algorithms: DAT 402, Fall 2024**
+- Created multiple machine learning algorithms to accurately predict the likelihood of diabetes given the provided biomarkers. 
+- Languages: Python, R
+- Mentor: Sabiha Mahzabeen
+
+**Predicting Flight Delays at LAX: DAT 402, Fall 2024**
+- Created supervised and non-supervised machine learning algorithms to predict the likelihood of a flight delay at Los Angeles International Airport. 
+- Languages: Python, R
+- Mentor: Sabiha Mahzabeen
+
+
+**Quantitative Modeling Approach to Understand Respiratory Infections: Lessons from COVID-19: AML 254, Spring 2024**
+- Used an advanced SIR model to predict the growth of Covid-19 with different ratios of population groups to help researchers predict the exponential growth of the disease.
+- Software: Mathematica, Matlab
+- Mentor: Jordy Cevallos Chavez
+
+**Predicting Hilton Stocks: STP 429, Spring 2024**
+- Formulated the best regression model for predicting the company's stock prices. 
+- Software: SAS
+- Mentor: Laurence Schneider
+
+
+**Predicting Philadelphia Phillies Wins: STP 429, Spring 2024**
+- Created a 2 variable and 3 variable regression model for predicting the team's wins.
+- Software: SAS
+- Mentor: Laurence Schneider
+
+
+**Population Modeling of Bison: AML 253, Fall 2022**
+- Modeled Bison populations and created estimations to predict when the populations would go extinct.
+- Software: Matlab
+- Mentor: Marty Anderies
