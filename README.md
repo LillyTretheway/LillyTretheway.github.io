@@ -11,6 +11,7 @@
 
 ## Work Experience
 **Data Analyst at ASU School of Earth and Space Exploration (_Jan 2024 - Present_)**
+- [Project Homepage](https://lucy.swri.edu)
 - Works on NASA Lucy project which explores the Jupiter Trojan asteroids over a 12 year mission, primarily using Python and Bash Shell
 - Develops python programs utilizing libraries such as Astropy, Numpy, and Pandas to analyze satellite data over time using aperture photometry
 - Creates code to compare images to bad pixel maps to ensure that other programs are correctly filtering through bad pixels
@@ -18,6 +19,7 @@
 - Conducts tests on datasets to indentify and resolve issues in data storage
 
 **Student Researcher at Arizona State University (_Jan 2024 - Present_)**
+- [Project Homepage](https://sites.google.com/asu.edu/actionablesci/about?authuser=0)
 - Collaborates with researchers in the Actionable Science in Biodiversity Conservation project
 - Investigates relationships between conservation practitioners and stakeholders using thematic analysis, uncovering key insights that inform conservation strategies
 - Tests relationship analysis using regression analysis and co-occurances in R
