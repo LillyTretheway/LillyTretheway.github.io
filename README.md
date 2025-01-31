@@ -12,10 +12,10 @@
 ## Work Experience
 **Data Analyst at ASU School of Earth and Space Exploration (_Jan 2024 - Present_)**
 - [Project Homepage](https://lucy.swri.edu)
-- Works on NASA Lucy project which explores the Jupiter Trojan asteroids over a 12 year mission, primarily using Python and Bash Shell
+- Works on NASA Lucy project which explores the Jupiter Trojan asteroids
 - Develops python programs utilizing libraries such as Astropy, Numpy, and Pandas to analyze satellite data over time using aperture photometry
 - Creates code to compare images to bad pixel maps to ensure that other programs are correctly filtering through bad pixels
-- Cleans and analyzes large sets of data using command line and PostgreSQL
+- Cleans and analyzes large sets of data using Bash shell and PostgreSQL
 - Conducts tests on datasets to indentify and resolve issues in data storage
 
 **Student Researcher at Arizona State University (_Jan 2024 - Present_)**
