@@ -47,9 +47,13 @@
 
 **Predicting Flight Delays at LAX: DAT 402, Fall 2024**
 - Created supervised and non-supervised machine learning algorithms to predict the likelihood of a flight delay at Los Angeles International Airport. 
-- Languages: Python, R
+- Languages: Python
 - Mentor: Sabiha Mahzabeen
 
+**Analyzing Water Usage in Arizona: DAT 301, Spring 2023**
+- Compared water usage throughout the state to climate, population, and income data to find patterns of water usage among different counties.
+- Languages: R
+- Mentor: Steffan Eikenberry
 
 **Quantitative Modeling Approach to Understand Respiratory Infections: Lessons from COVID-19: AML 254, Spring 2024**
 - Used an advanced SIR model to predict the growth of Covid-19 with different ratios of population groups to help researchers predict the exponential growth of the disease.
