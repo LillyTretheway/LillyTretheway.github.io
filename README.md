@@ -44,17 +44,19 @@
 - Created multiple machine learning algorithms to accurately predict the likelihood of diabetes given the provided biomarkers. 
 - Languages: Python, R
 - Mentor: Sabiha Mahzabeen
-- [Github Repository](https://github.com/LillyTretheway/Predicting-Obesity)
+- [Obesity Repository](https://github.com/LillyTretheway/Predicting-Obesity)
 
 **Predicting Flight Delays at LAX: DAT 402, Fall 2024**
 - Created supervised and non-supervised machine learning algorithms to predict the likelihood of a flight delay at Los Angeles International Airport. 
 - Languages: Python
 - Mentor: Sabiha Mahzabeen
+- [Flight Repository](https://github.com/LillyTretheway/Predicting_Flights)
 
 **Analyzing Water Usage in Arizona: DAT 301, Spring 2023**
 - Compared water usage throughout the state to climate, population, and income data to find patterns of water usage among different counties.
 - Languages: R
 - Mentor: Steffan Eikenberry
+- [Water Repository](https://github.com/LillyTretheway/ArizonaWater)
 
 **Quantitative Modeling Approach to Understand Respiratory Infections: Lessons from COVID-19: AML 254, Spring 2024**
 - Used an advanced SIR model to predict the growth of Covid-19 with different ratios of population groups to help researchers predict the exponential growth of the disease.
@@ -66,12 +68,10 @@
 - Software: SAS
 - Mentor: Laurence Schneider
 
-
 **Predicting Philadelphia Phillies Wins: STP 429, Spring 2024**
 - Created a 2 variable and 3 variable regression model for predicting the team's wins.
 - Software: SAS
 - Mentor: Laurence Schneider
-
 
 **Population Modeling of Bison: AML 253, Fall 2022**
 - Modeled Bison populations and created estimations to predict when the populations would go extinct.
