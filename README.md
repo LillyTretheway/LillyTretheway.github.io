@@ -44,6 +44,7 @@
 - Created multiple machine learning algorithms to accurately predict the likelihood of diabetes given the provided biomarkers. 
 - Languages: Python, R
 - Mentor: Sabiha Mahzabeen
+- [Github Repository](https://github.com/LillyTretheway/Predicting-Obesity)
 
 **Predicting Flight Delays at LAX: DAT 402, Fall 2024**
 - Created supervised and non-supervised machine learning algorithms to predict the likelihood of a flight delay at Los Angeles International Airport. 
