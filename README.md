@@ -47,7 +47,7 @@
 **Actionable Science in Conservation: Analyzing Knowledge Gaps, Barriers, and Resolutions**
 - Aimed to better understand the types of knowledge that conservation practitioners need, are using, and are generating, in addition to understanding the limitations they face in accessing information and strategies they use to overcome these barriers.
 - Transcripts were analyzed using co-occurrence matrices in R to reveal patterns in how different knowledge types interact.
-- https://keep.lib.asu.edu/items/200213
+- [Link to Thesis](https://keep.lib.asu.edu/items/200213)
 
 **Predicting Obesity using Machine Learning Algorithms: DAT 402, Fall 2024**
 - Created multiple machine learning algorithms to accurately predict the likelihood of diabetes given the provided biomarkers. 
