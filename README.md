@@ -6,25 +6,25 @@
 - B.S. Applied Mathematics for the Life and Social Sciences
   
 ## Honors
-- Outstanding Undergraduate Award, School of Complex Adaptive Systems: Spring 2025, One undergraduate student chosen per graduating class
-- Moeur Award: Spring 2025, Graduates with a 4.0 GPA
+- Outstanding Undergraduate Award, School of Complex Adaptive Systems: Spring 2025
+- Moeur Award: Spring 2025
 - Phi Beta Kappa Honors Society: Spring 2024 - Present
 - Dean's List: Fall 2021, 2022, 2023, 2024, Spring 2025
 
 ## Work Experience
 **Data Analyst at ASU School of Earth and Space Exploration (_Jan 2024 - May 2025)**
 - [Project Homepage](https://lucy.swri.edu)
-- Works on NASA Lucy project which explores the Jupiter Trojan asteroids
-- Develops python programs utilizing libraries such as Astropy, Numpy, and Pandas to analyze satellite data over time using aperture photometry
-- Creates code to compare images to bad pixel maps to ensure that other programs are correctly filtering through bad pixels
-- Cleans and analyzes large sets of data using Bash shell and PostgreSQL
-- Conducts tests on datasets to indentify and resolve issues in data storage
+- Worked on NASA Lucy project which explores the Jupiter Trojan asteroids
+- Developed python programs utilizing libraries such as Astropy, Numpy, and Pandas to analyze satellite data over time using aperture photometry
+- Created code to compare images to bad pixel maps to ensure that other programs are correctly filtering through bad pixels
+- Cleand and analyzes large sets of data using Bash shell and PostgreSQL
+- Conducted tests on datasets to indentify and resolve issues in data storage
 
 **Student Researcher at Arizona State University (_Jan 2024 - May 2025)**
 - [Project Homepage](https://sites.google.com/asu.edu/actionablesci/about?authuser=0)
-- Collaborates with researchers in the Actionable Science in Biodiversity Conservation project
-- Investigates relationships between conservation practitioners and stakeholders using thematic analysis, uncovering key insights that inform conservation strategies
-- Tests relationship analysis using regression analysis and co-occurances in R
+-  Investigated relationships between 81 conservation practitioners and stakeholders using thematic analysis, uncovering key insights that inform conservation strategies
+- Collaborated with researchers to examine data and validate findings
+- Analyzed practitioner–stakeholder dynamics using co-occurrence methods in R, identifying actionable strategies for strengthening partnerships 
 
 **Grader at Arizona State University (_Aug 2023 - Dec 2023_)**
 - Clarified feedback to students to help improve grades and work quality
@@ -43,6 +43,11 @@
 
 
 ## Projects
+
+**Actionable Science in Conservation: Analyzing Knowledge Gaps, Barriers, and Resolutions**
+- Aimed to better understand the types of knowledge that conservation practitioners need, are using, and are generating, in addition to understanding the limitations they face in accessing information and strategies they use to overcome these barriers.
+- Transcripts were analyzed using co-occurrence matrices in R to reveal patterns in how different knowledge types interact.
+- https://keep.lib.asu.edu/items/200213
 
 **Predicting Obesity using Machine Learning Algorithms: DAT 402, Fall 2024**
 - Created multiple machine learning algorithms to accurately predict the likelihood of diabetes given the provided biomarkers. 
