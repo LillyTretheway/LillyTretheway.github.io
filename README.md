@@ -12,19 +12,19 @@
 - Dean's List: Fall 2021, 2022, 2023, 2024, Spring 2025
 
 ## Work Experience
-**Software Application Associate at ASU School of Earth and Space Exploration (_Jan 2024 - May 2025)**
+**Software Application Associate at ASU School of Earth and Space Exploration (_Jan 2024 - May 2025_)**
 - Develops and tests software for aperture photometry analysis supporting research related to various NASA missions.
 - Applies computational techniques to analyze brightness, noise, and signal variation in star and comet imagery.
 - Collaborates with researchers to translate scientific requirements into computational analysis tools.
 
-**Data Analyst at ASU School of Earth and Space Exploration (_Jan 2024 - May 2025)**
+**Data Analyst at ASU School of Earth and Space Exploration (_Jan 2024 - May 2025_)**
 - [Project Homepage](https://lucy.swri.edu)
 - Worked on NASA Lucy project which explores the Jupiter Trojan asteroids
 - Developed python programs utilizing libraries such as Astropy, Numpy, and Pandas to analyze satellite data over time using aperture photometry
 - Created code to compare images to bad pixel maps to ensure that other programs are correctly filtering through bad pixels
 - Cleand and analyzes large sets of data using Bash shell and PostgreSQL
 
-**Student Researcher at Arizona State University (_Jan 2024 - May 2025)**
+**Student Researcher at Arizona State University (_Jan 2024 - May 2025_)**
 - [Project Homepage](https://sites.google.com/asu.edu/actionablesci/about?authuser=0)
 -  Investigated relationships between 81 conservation practitioners and stakeholders using thematic analysis, uncovering key insights that inform conservation strategies
 - Collaborated with researchers to examine data and validate findings
