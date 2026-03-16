@@ -12,13 +12,17 @@
 - Dean's List: Fall 2021, 2022, 2023, 2024, Spring 2025
 
 ## Work Experience
+**Software Application Associate at ASU School of Earth and Space Exploration (_Jan 2024 - May 2025)**
+- Develops and tests software for aperture photometry analysis supporting research related to various NASA missions.
+- Applies computational techniques to analyze brightness, noise, and signal variation in star and comet imagery.
+- Collaborates with researchers to translate scientific requirements into computational analysis tools.
+
 **Data Analyst at ASU School of Earth and Space Exploration (_Jan 2024 - May 2025)**
 - [Project Homepage](https://lucy.swri.edu)
 - Worked on NASA Lucy project which explores the Jupiter Trojan asteroids
 - Developed python programs utilizing libraries such as Astropy, Numpy, and Pandas to analyze satellite data over time using aperture photometry
 - Created code to compare images to bad pixel maps to ensure that other programs are correctly filtering through bad pixels
 - Cleand and analyzes large sets of data using Bash shell and PostgreSQL
-- Conducted tests on datasets to indentify and resolve issues in data storage
 
 **Student Researcher at Arizona State University (_Jan 2024 - May 2025)**
 - [Project Homepage](https://sites.google.com/asu.edu/actionablesci/about?authuser=0)
@@ -44,45 +48,42 @@
 
 ## Projects
 
+**Aperture Photometry Analysis**
+- Built a Python-based analysis pipeline using Astropy, NumPy, and Pandas to measure brightness from astronomical images using aperture photometry
+- Processed hundreds of telescope images spanning four years to extract photometric measurements and analyze signal-to-noise characteristics
+
 **Actionable Science in Conservation: Analyzing Knowledge Gaps, Barriers, and Resolutions**
 - Aimed to better understand the types of knowledge that conservation practitioners need, are using, and are generating, in addition to understanding the limitations they face in accessing information and strategies they use to overcome these barriers.
 - Transcripts were analyzed using co-occurrence matrices in R to reveal patterns in how different knowledge types interact.
 - [Link to Thesis](https://keep.lib.asu.edu/items/200213)
 
-**Predicting Obesity using Machine Learning Algorithms: DAT 402, Fall 2024**
+**Predicting Obesity using Machine Learning Algorithms**
 - Created multiple machine learning algorithms to accurately predict the likelihood of diabetes given the provided biomarkers. 
 - Languages: Python, R
-- Mentor: Sabiha Mahzabeen
 - [Obesity Repository](https://github.com/LillyTretheway/Predicting-Obesity)
 
-**Predicting Flight Delays at LAX: DAT 402, Fall 2024**
+**Predicting Flight Delays at LAX**
 - Created supervised and non-supervised machine learning algorithms to predict the likelihood of a flight delay at Los Angeles International Airport. 
 - Languages: Python
-- Mentor: Sabiha Mahzabeen
 - [Flight Repository](https://github.com/LillyTretheway/Predicting_Flights)
 
-**Analyzing Water Usage in Arizona: DAT 301, Spring 2023**
+**Analyzing Water Usage in Arizona**
 - Compared water usage throughout the state to climate, population, and income data to find patterns of water usage among different counties.
 - Languages: R
-- Mentor: Steffan Eikenberry
 - [Water Repository](https://github.com/LillyTretheway/ArizonaWater)
 
-**Quantitative Modeling Approach to Understand Respiratory Infections: Lessons from COVID-19: AML 254, Spring 2024**
-- Used an advanced SIR model to predict the growth of Covid-19 with different ratios of population groups to help researchers predict the exponential growth of the disease.
-- Software: Mathematica, Matlab
-- Mentor: Jordy Cevallos Chavez
-
-**Predicting Hilton Stocks: STP 429, Spring 2024**
+**Predicting Hilton Stocks**
 - Formulated the best regression model for predicting the company's stock prices. 
 - Software: SAS
-- Mentor: Laurence Schneider
 
-**Predicting Philadelphia Phillies Wins: STP 429, Spring 2024**
+**Predicting Philadelphia Phillies Wins**
 - Created a 2 variable and 3 variable regression model for predicting the team's wins.
 - Software: SAS
-- Mentor: Laurence Schneider
 
 **Population Modeling of Bison: AML 253, Fall 2022**
 - Modeled Bison populations and created estimations to predict when the populations would go extinct.
 - Software: Matlab
-- Mentor: Marty Anderies
+
+**Quantitative Modeling Approach to Understand Respiratory Infections: Lessons from COVID-19**
+- Used an advanced SIR model to predict the growth of Covid-19 with different ratios of population groups to help researchers predict the exponential growth of the disease.
+- Software: Mathematica, Matlab
