@@ -24,7 +24,7 @@
 - Created code to compare images to bad pixel maps to ensure that other programs are correctly filtering through bad pixels
 - Cleand and analyzes large sets of data using Bash shell and PostgreSQL
 
-**Student Researcher at Arizona State University (_Jan 2024 - May 2025_)**
+**Student Researcher at Arizona State University (_Jan 2024 - Jun 2025_)**
 - [Project Homepage](https://sites.google.com/asu.edu/actionablesci/about?authuser=0)
 -  Investigated relationships between 81 conservation practitioners and stakeholders using thematic analysis, uncovering key insights that inform conservation strategies
 - Collaborated with researchers to examine data and validate findings
