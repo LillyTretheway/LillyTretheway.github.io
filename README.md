@@ -12,7 +12,7 @@
 - Dean's List: Fall 2021, 2022, 2023, 2024, Spring 2025
 
 ## Work Experience
-**Software Application Associate at ASU School of Earth and Space Exploration (_Jan 2024 - May 2025_)**
+**Software Application Associate at ASU School of Earth and Space Exploration (_Aug 2025 - Current_)**
 - Develops and tests software for aperture photometry analysis supporting research related to various NASA missions.
 - Applies computational techniques to analyze brightness, noise, and signal variation in star and comet imagery.
 - Collaborates with researchers to translate scientific requirements into computational analysis tools.
