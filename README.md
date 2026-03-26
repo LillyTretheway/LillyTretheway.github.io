@@ -57,6 +57,11 @@
 - Transcripts were analyzed using co-occurrence matrices in R to reveal patterns in how different knowledge types interact.
 - [Link to Thesis](https://keep.lib.asu.edu/items/200213)
 
+**Predicting Health Insurance Costs**
+- Predicted individual insurance costs using regression models by analyzing factors like age, BMI, smoking status, and region.
+- Performed data cleaning and exploratory data analysis to identify key patterns and outliers.
+- Evaluated model performance using metrics such as RMSE and R², and interpreted insights to explain cost drivers.
+  
 **Predicting Obesity using Machine Learning Algorithms**
 - Created multiple machine learning algorithms to accurately predict the likelihood of diabetes given the provided biomarkers. 
 - Languages: Python, R
