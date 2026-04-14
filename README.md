@@ -57,6 +57,10 @@
 - Transcripts were analyzed using co-occurrence matrices in R to reveal patterns in how different knowledge types interact.
 - [Link to Thesis](https://keep.lib.asu.edu/items/200213)
 
+**Public Health Data Analysis of Infectious Diseases**
+- Analyzed the impact of environmental, behavioral, and socio-economic factors on the spread of communicable diseases (e.g., influenza, hepatitis, measles) to identify key drivers of transmission
+- Leveraged post-COVID insights to improve understanding and prediction of disease spread, supporting more effective public health analysis and mitigation strategies
+- 
 **Predicting Health Insurance Costs**
 - Predicted individual insurance costs using regression models by analyzing factors like age, BMI, smoking status, and region.
 - Performed data cleaning and exploratory data analysis to identify key patterns and outliers.
